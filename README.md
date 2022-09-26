@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Noor, I am a Research Fellow at CERN who started this September to work on OpenWebSearch(OWS) full-time. Prior to this I was a Technical Student at CERN working on its institutional search service for past 14 months while in parallel doing my master’s from Illinois Institute of Technology, Chicago. I also have 3 years of experience working in the industry as a Full Stack Software Engineer where I also juggled with technical project management a bit. I am transitioning into more DevOps role with the current role at CERN and OWS and I am super excited about it! Clean code and agile practices are something that excites me. I love learning from different people, I call myself a life long learner and I try not to miss any opportunity to have conversations with people sharing similar interests. :) 
+
 <!--
 **noorfathima11/noorfathima11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
