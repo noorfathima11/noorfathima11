@@ -1,13 +1,22 @@
-Hi there 👋
+# Hi there 👋
 
-I’m Noor — a full-stack engineer working on large-scale search and data systems.
+I'm Noor.
 
-I’ve worked at CERN on both its institutional search platform and the OpenWebSearch initiative, building and operating systems across the full stack — from user-facing interfaces to backend services and distributed data infrastructure.
+I build software, data systems, and search platforms.
+Lately, I've been moving deeper into Machine Learning, AI Engineering, and AI Agents. I'm interested in how LLMs, retrieval systems, and knowledge infrastructure can be combined to build useful and trustworthy applications.
 
-My background combines frontend and backend development (React, Node.js, Python/Java) with hands-on experience in search and data pipelines — including crawling, indexing, and working with datastores like OpenSearch and ScyllaDB. I’ve also worked with containerised environments (Docker/Podman) and CI/CD workflows to ensure systems are reliable and easy to evolve.
+Over the last few years, I've worked at CERN and on OpenWebSearch, building things across the stack—from web interfaces and APIs to search engines, data pipelines, and distributed infrastructure.
 
-What I enjoy most about full-stack work is connecting layers: designing interfaces that make complex systems usable, while ensuring the backend and data layers are robust and scalable. Having worked close to infrastructure, I bring an understanding of how design decisions at the UI level propagate through the system.
+Most of my experience is in:
 
-Alongside engineering, my time at the International Labour Organization gave me exposure to working with real-world datasets in policy contexts, which shaped how I think about building systems that are not just functional, but meaningful in how they present and structure information.
+* React, Node.js, Python, and Java
+* Search and information retrieval
+* Data engineering and backend systems
+* OpenSearch and ScyllaDB
+* Docker, Podman, and CI/CD
 
-I’m curious by nature, enjoy working across disciplines, and like building systems that are both technically sound and thoughtful in their design.
+I enjoy understanding how systems work end-to-end and building products that connect users, software, and data.
+
+Outside of engineering, I care about accessibility, digital public infrastructure, and technology that has a positive social impact.
+
+Always learning. Always building.
